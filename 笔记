@@ -1,5 +1,0 @@
-跨域头：
-header("Access-Control-Allow-Origin: *");
-header("Access-Control-Allow-Credentials: false");
-header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept,If-Modified-Since,Authorization");
-
