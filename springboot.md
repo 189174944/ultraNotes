@@ -16,3 +16,17 @@
 ::1       你的主机名.local
 
 3、再启动springboot项目变得飞快了。
+
+
+注入配置
+1,@value("${'key.a.b'}") yml和properties都有效
+2.@ConfigurationProperties(prefix="key")
+3.@Environment env;env.getgetProperty("key")
+
+JPA的Entity文件快速生成
+View->Tool Windos->persistence
+
+
+
+
+
